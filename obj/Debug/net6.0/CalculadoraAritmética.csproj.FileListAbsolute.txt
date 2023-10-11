@@ -1,0 +1,14 @@
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\bin\Debug\net6.0\CalculadoraAritmética.exe
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\bin\Debug\net6.0\CalculadoraAritmética.deps.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\bin\Debug\net6.0\CalculadoraAritmética.runtimeconfig.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\bin\Debug\net6.0\CalculadoraAritmética.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\bin\Debug\net6.0\CalculadoraAritmética.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\obj\Debug\net6.0\CalculadoraAritmética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\obj\Debug\net6.0\CalculadoraAritmética.AssemblyInfoInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\obj\Debug\net6.0\CalculadoraAritmética.AssemblyInfo.cs
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\obj\Debug\net6.0\CalculadoraAritmética.csproj.CoreCompileInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\obj\Debug\net6.0\CalculadoraAritmética.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\obj\Debug\net6.0\refint\CalculadoraAritmética.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\obj\Debug\net6.0\CalculadoraAritmética.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\obj\Debug\net6.0\CalculadoraAritmética.genruntimeconfig.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\CalculadoraAritmética\obj\Debug\net6.0\ref\CalculadoraAritmética.dll
