@@ -1,5 +1,6 @@
 ﻿using CalculadoraAritmética;
 using CalculadoraAritmética.Servicios;
+using System.Diagnostics.CodeAnalysis;
 
 namespace CalculadoraAritmética
 {
@@ -36,19 +37,22 @@ namespace CalculadoraAritmética
 
                     case 1: 
                         Console.WriteLine("[INFO] Ha seleccionado la opción sumar");
-
+                        ci.suma();
                         break;
 
                     case 2: 
                         Console.WriteLine("[INFO] Ha seleccionado la opción restar");
+                        ci.resta();
                         break;
 
                     case 3: 
                         Console.WriteLine("[INFO] Ha seleccionado la opción multiplicar");
+                        ci.multiplicar();
                         break;
 
                      case 4: 
                         Console.WriteLine("[INFO] Ha seleccionado la opción dividir");
+                        ci.dividir();
                         break;
 
                     default:
